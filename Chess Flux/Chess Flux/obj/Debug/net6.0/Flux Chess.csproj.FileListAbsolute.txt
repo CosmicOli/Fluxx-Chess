@@ -1,0 +1,15 @@
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Chess Flux\Chess Flux\obj\Debug\net6.0\Flux Chess.csproj.AssemblyReference.cache
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Chess Flux\Chess Flux\obj\Debug\net6.0\Flux Chess.GeneratedMSBuildEditorConfig.editorconfig
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Chess Flux\Chess Flux\obj\Debug\net6.0\Flux Chess.AssemblyInfoInputs.cache
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Chess Flux\Chess Flux\obj\Debug\net6.0\Flux Chess.AssemblyInfo.cs
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Chess Flux\Chess Flux\obj\Debug\net6.0\Flux Chess.csproj.CoreCompileInputs.cache
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Chess Flux\Chess Flux\bin\Debug\net6.0\Flux Chess.exe
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Chess Flux\Chess Flux\bin\Debug\net6.0\Flux Chess.deps.json
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Chess Flux\Chess Flux\bin\Debug\net6.0\Flux Chess.runtimeconfig.json
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Chess Flux\Chess Flux\bin\Debug\net6.0\Flux Chess.dll
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Chess Flux\Chess Flux\bin\Debug\net6.0\Flux Chess.pdb
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Chess Flux\Chess Flux\obj\Debug\net6.0\Flux Chess.dll
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Chess Flux\Chess Flux\obj\Debug\net6.0\refint\Flux Chess.dll
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Chess Flux\Chess Flux\obj\Debug\net6.0\Flux Chess.pdb
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Chess Flux\Chess Flux\obj\Debug\net6.0\Flux Chess.genruntimeconfig.cache
+E:\One Drive Backup\School\Computing\Programming\Non School Work\Chess Flux\Chess Flux\obj\Debug\net6.0\ref\Flux Chess.dll

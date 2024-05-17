@@ -1,0 +1,16 @@
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Chess Flux\Chess Flux\obj\Debug\net5.0\Flux Chess.csproj.AssemblyReference.cache
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Chess Flux\Chess Flux\obj\Debug\net5.0\Flux Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Chess Flux\Chess Flux\obj\Debug\net5.0\Flux Chess.AssemblyInfoInputs.cache
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Chess Flux\Chess Flux\obj\Debug\net5.0\Flux Chess.AssemblyInfo.cs
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Chess Flux\Chess Flux\obj\Debug\net5.0\Flux Chess.csproj.CoreCompileInputs.cache
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Chess Flux\Chess Flux\bin\Debug\net5.0\Flux Chess.exe
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Chess Flux\Chess Flux\bin\Debug\net5.0\Flux Chess.deps.json
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Chess Flux\Chess Flux\bin\Debug\net5.0\Flux Chess.runtimeconfig.json
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Chess Flux\Chess Flux\bin\Debug\net5.0\Flux Chess.runtimeconfig.dev.json
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Chess Flux\Chess Flux\bin\Debug\net5.0\Flux Chess.dll
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Chess Flux\Chess Flux\bin\Debug\net5.0\Flux Chess.pdb
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Chess Flux\Chess Flux\obj\Debug\net5.0\Flux Chess.dll
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Chess Flux\Chess Flux\obj\Debug\net5.0\refint\Flux Chess.dll
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Chess Flux\Chess Flux\obj\Debug\net5.0\Flux Chess.pdb
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Chess Flux\Chess Flux\obj\Debug\net5.0\Flux Chess.genruntimeconfig.cache
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Chess Flux\Chess Flux\obj\Debug\net5.0\ref\Flux Chess.dll
